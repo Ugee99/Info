@@ -50,7 +50,7 @@
 <div markdown="1">
 
 교양 과목<br/>
-<a href ="https://carbon.now.sh/">다홍치마</a>
+<a href ="https://carbon.now.sh/">다홍치마</a><br/>
 <a href ="https://youtu.be/mKGhBtQI1iA">[Youtube - 이민석 작가]한국에서 소프트웨어 엔지니어로 성공하는 법</a><br/>
 <a href ="https://okky.kr/article/1255457">[okky.kr]면접에서 들었던 & 했던 질문들</a><br/>
 <a href ="https://okky.kr/article/398880">[okky.kr]어떻게 공부할까? 프로그래머를 위한「공부론</a><br/>
