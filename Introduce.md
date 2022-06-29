@@ -50,22 +50,23 @@
 <div markdown="1">
 
 교양 과목<br/>
-<a href ="https://carbon.now.sh/">다홍치마</a><br/>
-<a href ="https://youtu.be/mKGhBtQI1iA">[Youtube - 이민석 작가]한국에서 소프트웨어 엔지니어로 성공하는 법</a><br/>
-<a href ="https://okky.kr/article/1255457">[okky.kr]면접에서 들었던 & 했던 질문들</a><br/>
-<a href ="https://okky.kr/article/398880">[okky.kr]어떻게 공부할까? 프로그래머를 위한「공부론</a><br/>
-<a href ="https://brunch.co.kr/@chickenmoim/18">유니티, 증강현실 앱개발 런칭기(iOS, Android)</a><br/>
+  - <a href ="https://carbon.now.sh/">다홍치마</a><br/>
+  - <a href ="https://youtu.be/mKGhBtQI1iA">[Youtube - 이민석 작가]한국에서 소프트웨어 엔지니어로 성공하는 법</a><br/>
+  - <a href ="https://okky.kr/article/1255457">[okky.kr]면접에서 들었던 & 했던 질문들</a><br/>
+  - <a href ="https://okky.kr/article/398880">22-06-27:[okky.kr]어떻게 공부할까? 프로그래머를 위한「공부론</a><br/>
+  - <a href ="https://brunch.co.kr/@chickenmoim/18">22-06-27:유니티, 증강현실 앱개발 런칭기(iOS, Android)</a><br/>
+  - <a href ="[https://brunch.co.kr/@chickenmoim/18](https://velog.io/@mowinckel/%EC%95%84%EB%AC%B4%EB%8F%84-%EA%B0%80%EB%A5%B4%EC%B3%90-%EC%A3%BC%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%83)">22-06-29:아무도 가르쳐 주지 않는 것</a><br/>
   
 기술 관련<br/>
-<a href ="https://www.pikurate.com/pik/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EA%B0%9C%EB%B0%9C-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C?category=C%EC%96%B8%EC%96%B4">[pikurate]무료 개발 강의</a><br/>
-<a href ="https://youtu.be/TrC2x4N0XqY">[Youtube - 얄팍한 코딩사전]제대로 파는 HTML & CSS 강좌 - 웹개발 퍼블리싱 끝장내기</a><br/>
-<a href ="https://opentutorials.org/course/1">생활코딩</a><br/>
-<a href ="https://www.boostcourse.org/opencourse">부스트코스(boostcourse)</a><br/>
-<a href ="https://www.edwith.org">에드위드(edwith)</a><br/>
-<a href ="https://wikidocs.net">WikiDocs</a><br/>
-<a href ="주소">Google</a><br/>
-<a href ="주소">Google</a><br/>
-유즈넷, 메일링 리스트, 오리지널 위키<br/>
+  - <a href ="https://www.pikurate.com/pik/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EA%B0%9C%EB%B0%9C-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C?category=C%EC%96%B8%EC%96%B4">[pikurate]무료 개발 강의</a><br/>
+  - <a href ="https://youtu.be/TrC2x4N0XqY">[Youtube - 얄팍한 코딩사전]제대로 파는 HTML & CSS 강좌 - 웹개발 퍼블리싱 끝장내기</a><br/>
+  - <a href ="https://opentutorials.org/course/1">생활코딩</a><br/>
+  - <a href ="https://www.boostcourse.org/opencourse">부스트코스(boostcourse)</a><br/>
+  - <a href ="https://www.edwith.org">에드위드(edwith)</a><br/>
+  - <a href ="https://wikidocs.net">WikiDocs</a><br/>
+  - <a href ="주소">Google</a><br/>
+  - <a href ="주소">Google</a><br/>
+  - 유즈넷, 메일링 리스트, 오리지널 위키<br/>
 </div>
 </details>
 
