@@ -55,7 +55,8 @@
   - <a href ="https://okky.kr/article/1255457">[okky.kr]면접에서 들었던 & 했던 질문들</a><br/>
   - <a href ="https://okky.kr/article/398880">22-06-27:[okky.kr]어떻게 공부할까? 프로그래머를 위한「공부론</a><br/>
   - <a href ="https://brunch.co.kr/@chickenmoim/18">22-06-27:유니티, 증강현실 앱개발 런칭기(iOS, Android)</a><br/>
-  - <a href ="[https://brunch.co.kr/@chickenmoim/18](https://velog.io/@mowinckel/%EC%95%84%EB%AC%B4%EB%8F%84-%EA%B0%80%EB%A5%B4%EC%B3%90-%EC%A3%BC%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%83)">22-06-29:아무도 가르쳐 주지 않는 것</a><br/>
+  - <a href ="https://velog.io/@mowinckel/%EC%95%84%EB%AC%B4%EB%8F%84-%EA%B0%80%EB%A5%B4%EC%B3%90-%EC%A3%BC%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%83">22-06-29:아무도 가르쳐 주지 않는 것</a><br/>
+   - <a href ="https://okky.kr/article/338405">22-06-29:[okky.kr]초보 개발자를 위한 스택트레이스 읽는 법</a><br/>
   
 기술 관련<br/>
   - <a href ="https://www.pikurate.com/pik/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EA%B0%9C%EB%B0%9C-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C?category=C%EC%96%B8%EC%96%B4">[pikurate]무료 개발 강의</a><br/>
@@ -70,12 +71,13 @@
 </div>
 </details>
 
-## X. 수정 기록
+## X. 수정 기록 및 일기
 <details>
 <summary><b>기록보기</b></summary>
 <div markdown="1">
 22-06-28 17:14 | 리포지트리 생성 및 인적사항, 기술스택, 공부 할 내용 정리<br/>
-22-06-28 17:16 | 기술스택 XCode추가
+22-06-28 17:16 | 기술스택 XCode추가<br/>
+22-06-28 13:12 | 교양 과목 2개 추가 :: 로그 파일 읽기, 스택트레이스, 예외 처리의 중요성, config의 중요성(보안)<br/>
   
 </div>
 </details>
